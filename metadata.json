@@ -1,0 +1,5 @@
+{
+  "name": "Accessible Color Palette Generator",
+  "description": "A tool to generate accessible color palettes from a base color. It creates scales from 100 to 900, shows contrast ratios between colors, provides HEX/RGB codes, and includes an interactive playground to test color combinations against WCAG standards.",
+  "requestFramePermissions": []
+}
